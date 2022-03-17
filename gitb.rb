@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Gitbatch < Formula
+class Gitb < Formula
   desc "A tool for manage multiple git repo"
   homepage ""
   url "https://github.com/MadeInChina/gitb/archive/refs/tags/v1.0.0.tar.gz"
