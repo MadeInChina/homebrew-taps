@@ -8,8 +8,6 @@ class Setjdk < Formula
   sha256 "9f41698fbfb3fb5e2f5db9e9544d16907acb098f7c2fe95b26792fea5653db00"
   license "Apache-2.0"
 
-  depends_on "zsh"
-
   def install
 	bin.install "bin/setjdk"
   end
