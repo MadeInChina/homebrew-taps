@@ -5,7 +5,7 @@ class Setjdk < Formula
   desc "Tool for switch jdk version"
   homepage "https://github.com/MadeInChina/setjdk"
   url "https://github.com/MadeInChina/setjdk/archive/refs/tags/v1.0.0.zip"
-  sha256 "37cc138fc0b72cc7280ee47f15eabedb7fe6cb20030feac48691b3ba36d72259"
+  sha256 "e659efa78917a964962f706e8e5ae2cc45cb59ab60c5bd24e7c1c485d6b06af7"
   license "Apache-2.0"
 
   def install
